@@ -21,6 +21,7 @@ files/pl_EnableBrowser.bin
 files/pl_ExitIDU.bin
 files/pl_FTP.bin
 files/pl_GoldHENv2.4b18.7.bin
+files/pl_GoldHENv2.4b18.8.bin
 files/pl_HistoryBlocker.bin
 files/pl_KernelClock.bin
 files/pl_KernelDumper.bin
@@ -85,6 +86,7 @@ files/pl_toKratos.bin
 files/pl_UpdatesDisable.bin
 files/pl_UpdatesEnable.bin
 files/pl_WebRTE.bin
+files/pl_elfldr.bin
 files/style.css
 files/img/BG.jpg
 files/img/ftp.svg
