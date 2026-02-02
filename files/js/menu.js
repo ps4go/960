@@ -52,6 +52,14 @@ var menuData = {
         "Icon": "&#xf0b1;",
         "FW": ["9.00","7.xx"]
       },
+	   {
+        "PL-Title": "Bin加载器",
+        "PL-Bin": "pl_elfldr.bin",
+        "PL-Ver": "v1.0 ",
+        "PL-Desc": "Bin/Elf加载器，端口9021",
+        "Icon": "&#xf019;",
+        "FW": ["9.xx","8.xx","7.xx"]
+      },
       {
         "PL-Title": "退出IDU",
         "PL-Bin": "pl_ExitIDU.bin",
